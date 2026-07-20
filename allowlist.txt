@@ -1,3 +1,8 @@
 marvel.com
 disney.com
-live.com
+login.live.com
+account.live.com
+login.microsoft.com
+account.microsoft.com
+login.microsoftonline.com
+accountprotection.microsoft.com
