@@ -2,7 +2,17 @@ marvel.com
 disney.com
 login.live.com
 account.live.com
+go.microsoft.com
+graph.microsoft.com
 login.microsoft.com
 account.microsoft.com
+crl.microsoft.com
+mscrl.microsoft.com
 login.microsoftonline.com
+officeredir.microsoft.com
 accountprotection.microsoft.com
+protection.outlook.com
+outlook.office.com
+outlook.office365.com
+graph.windows.net
+enterpriseregistration.windows.net
